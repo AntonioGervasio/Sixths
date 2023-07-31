@@ -1,4 +1,5 @@
 # Sixths
 
 # OWNER
-** Antonio Gervasio**
+**Antonio Gervasio**
+**Francesco Aulicino**
