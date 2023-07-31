@@ -1,4 +1,4 @@
 # APP Name **Sixths**
-# OWNER
+# Ceo of Sixths
 **Antonio Gervasio**
 **Francesco Aulicino**
