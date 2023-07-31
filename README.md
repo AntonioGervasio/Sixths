@@ -4,9 +4,7 @@
 **Antonio Gervasio**
 
 **Francesco Aulicino**
-
-#Language
+# Language
 IT-it
-
-#Version
+# Version
 0.1 Beta
